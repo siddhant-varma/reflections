@@ -1,7 +1,11 @@
 What happens when you initialize a repository? Why do you need to do it?
 
+A new hidden folder ".git" is created in the repository which contains meta data about commits
+
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+
+Staging area is sort of temporary platform where changes are made before commiting them. it may have some or all files of the working directory.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
