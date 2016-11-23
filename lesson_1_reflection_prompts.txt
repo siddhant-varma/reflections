@@ -32,7 +32,7 @@ Now that you have your workspace set up, what do you want to try using Git for?
 
     Fill in your answer here
 	
-	
+	 
 Git command review
 
 Compare two commits, printing each line that is present in one commit but not the other.
